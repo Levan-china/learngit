@@ -1,0 +1,4 @@
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+再加一行内容来看一下add到stage缓存区、commit到分支的具体实现。
+Git管理的是修改，而不是文件。（对这一行再修改：这是没有add操作的内容）
